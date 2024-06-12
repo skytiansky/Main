@@ -12,6 +12,7 @@ public class hahha {
         System.out.println("skytiansky");
 
         System.out.println("test1");
+        System.out.println("test2");
 
 
 
