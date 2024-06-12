@@ -11,6 +11,8 @@ public class hahha {
 
         System.out.println("skytiansky");
 
+        System.out.println("test1");
+
 
 
 
