@@ -6,8 +6,6 @@ public class hahha {
         System.out.println(2);
         System.out.println("haha");
         System.out.println();
-
-
         System.out.println("1");
 
 
