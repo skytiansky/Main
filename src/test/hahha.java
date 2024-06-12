@@ -7,6 +7,7 @@ public class hahha {
         System.out.println("haha");
         System.out.println();
         System.out.println("1");
+        System.out.println("hahah");
 
 
 
