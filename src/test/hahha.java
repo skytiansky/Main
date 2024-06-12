@@ -8,7 +8,7 @@ public class hahha {
         System.out.println();
 
 
-        System.out.println("tian");
+        System.out.println("1");
 
 
 
